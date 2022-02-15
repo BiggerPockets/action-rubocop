@@ -58,7 +58,6 @@ runs:
         INPUT_GITHUB_TOKEN: ${{ inputs.github_token }}
         INPUT_RUBOCOP_VERSION: ${{ inputs.rubocop_version }}
         INPUT_RUBOCOP_EXTENSIONS: ${{ inputs.rubocop_extensions }}
-        INPUT_RUBOCOP_FLAGS: ${{ inputs.rubocop_flags }}
         INPUT_TOOL_NAME: ${{ inputs.tool_name }}
         INPUT_LEVEL: ${{ inputs.level }}
         INPUT_REPORTER: ${{ inputs.reporter }}
